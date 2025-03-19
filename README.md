@@ -1,66 +1,62 @@
-# 📌 Databases Lab
+# 📌 Laboratorium Baz Danych
 
-## 🔍 Course Overview
-The **Databases Lab** course is designed to provide students with a hands-on approach to working with databases, focusing on both relational and NoSQL systems. This course will cover fundamental and advanced database concepts, including modeling, SQL optimization, database administration, and modern database technologies.
+## 🔍 Przegląd Kursu
+Kurs **Laboratorium Baz Danych** został zaprojektowany, aby zapewnić praktyczne doświadczenie w pracy z bazami danych, obejmując zarówno systemy relacyjne, jak i NoSQL. W ramach kursu omówione zostaną podstawowe i zaawansowane koncepcje bazodanowe, w tym modelowanie, optymalizacja SQL, administracja bazami danych oraz nowoczesne technologie bazodanowe.
 
-Students will gain practical experience in designing, managing, and optimizing databases through a series of structured lab exercises and assignments.
+Uczestnicy zdobędą praktyczne umiejętności w zakresie projektowania, zarządzania i optymalizacji baz danych poprzez serię ustrukturyzowanych ćwiczeń laboratoryjnych i zadań.
 
-## 📖 Course Topics
-This course will be divided into the following key areas:
+## 📖 Tematyka Kursu
+Kurs jest podzielony na następujące kluczowe obszary:
 
-### 1️⃣ Advanced Data Modeling
-- Extended ER diagrams (multi-valued attributes, many-to-many relationships, generalization, and specialization)
-- Transformation of ER models into relational models
-- Denormalization and designing efficient data structures
+### 1️⃣ Zaawansowane Modelowanie Danych
+- Rozszerzone diagramy ER (atrybuty wielowartościowe, relacje wiele-do-wielu, generalizacja i specjalizacja)
+- Transformacja modeli ER na modele relacyjne
+- Denormalizacja i projektowanie efektywnych struktur danych
 
-### 2️⃣ Advanced SQL
-- Views and their applications in databases
-- Use of stored procedures and user-defined functions
-- Triggers – mechanisms and applications
-- SQL query optimization (indexes, query execution plans, SQL caching)
-- SQL security and access control management
+### 2️⃣ Zaawansowany SQL
+- Widoki i ich zastosowanie w bazach danych
+- Procedury składowane i funkcje definiowane przez użytkownika
+- Wyzwalacze (triggery) – mechanizmy i zastosowania
+- Optymalizacja zapytań SQL (indeksy, plany wykonania zapytań, buforowanie SQL)
+- Bezpieczeństwo SQL i zarządzanie kontrolą dostępu
 
-### 3️⃣ Database Administration & Management
-- Transaction mechanisms in databases – ACID properties, isolation levels, and locking
-- Data replication and partitioning techniques
-- Database clusters and high availability strategies
-- Backup and recovery mechanisms
-- Database monitoring and performance tuning
+### 3️⃣ Administracja i Zarządzanie Bazami Danych
+- Mechanizmy transakcyjne – właściwości ACID, poziomy izolacji i blokady
+- Replikacja i partycjonowanie danych
+- Klastry baz danych i strategie wysokiej dostępności
+- Kopie zapasowe i mechanizmy odzyskiwania danych
+- Monitorowanie baz danych i strojenie wydajności
 
-### 4️⃣ NoSQL Technologies – In-Depth Analysis
-- Comparison of relational and non-relational database systems
-- Advanced concepts in graph databases (Neo4j, ArangoDB)
-- Columnar databases (Apache Cassandra, HBase)
-- NewSQL – modern relational database approaches
-- CAP Theorem and its impact on database selection
+### 4️⃣ Technologie NoSQL – Dogłębna Analiza
+- Porównanie systemów relacyjnych i nierelacyjnych
+- Zaawansowane koncepcje baz grafowych (Neo4j, ArangoDB)
+- Bazy kolumnowe (Apache Cassandra, HBase)
+- NewSQL – nowoczesne podejście do baz relacyjnych
+- Twierdzenie CAP i jego wpływ na wybór bazy danych
 
-### 5️⃣ Modern Database Trends & Technologies
-- Serverless database models
-- Modern indexing mechanisms (B+Tree, LSM-Tree, Bloom Filters)
-- Advanced data analytics techniques in databases
-- Applications of AI & ML in database management
+### 5️⃣ Nowoczesne Trendy i Technologie Bazodanowe
+- Modele baz danych w architekturze serverless
+- Nowoczesne mechanizmy indeksowania (B+Tree, LSM-Tree, Filtry Blooma)
+- Zaawansowane techniki analizy danych w bazach danych
+- Zastosowanie sztucznej inteligencji i uczenia maszynowego w zarządzaniu bazami danych
 
-## 🔧 Course Requirements
-- Basic understanding of SQL and relational databases
-- Familiarity with a programming language (e.g., Python, Java, or C#) for database interaction
-- Willingness to explore both relational and NoSQL paradigms
+## 🔧 Wymagania Kursu
+- Podstawowa znajomość SQL i relacyjnych baz danych
+- Znajomość języka programowania (np. Python, Java lub C#) do interakcji z bazą danych
+- Chęć eksploracji zarówno paradygmatu relacyjnego, jak i NoSQL
 
-## 📂 Repository Structure
-This repository will contain:
-- **Lab exercises** with step-by-step instructions
-- **SQL scripts** for practice and demonstration
-- **Assignments** to reinforce key concepts
-- **Reference materials** and best practices
+## 📂 Struktura Repozytorium
+To repozytorium zawiera:
+- **Ćwiczenia laboratoryjne** z instrukcjami krok po kroku
+- **Skrypty SQL** do ćwiczeń i demonstracji
+- **Zadania** wzmacniające kluczowe koncepcje
+- **Materiały referencyjne** i najlepsze praktyki
 
-## 🚀 Getting Started
-1. Clone the repository:
+## 🚀 Rozpoczęcie Pracy
+1. Sklonuj repozytorium:
    ```bash
    git clone https://github.com/yourusername/databases-lab.git
    ```
-2. Set up the required database environment (PostgreSQL, MySQL, MongoDB, Neo4j, etc.).
-3. Follow the lab instructions in each section.
-
-## 🤝 Contributions & Support
-Feel free to contribute by submitting issues or pull requests. If you have any questions, open a discussion or reach out to the course instructor.
+2. Skonfiguruj wymagane środowisko bazodanowe (PostgreSQL, MySQL, MongoDB, Neo4j itp.).
 
 ---
