@@ -52,11 +52,4 @@ To repozytorium zawiera:
 - **Zadania** wzmacniające kluczowe koncepcje
 - **Materiały referencyjne** i najlepsze praktyki
 
-## Rozpoczęcie Pracy
-1. Sklonuj repozytorium:
-   ```bash
-   git clone https://github.com/yourusername/databases-lab.git
-   ```
-2. Skonfiguruj wymagane środowisko bazodanowe (PostgreSQL, MySQL, MongoDB, Neo4j itp.).
-
 ---
