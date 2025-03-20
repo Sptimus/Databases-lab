@@ -35,32 +35,9 @@ Bazy danych są niezbędne do przechowywania, organizowania i zarządzania duży
 Ćwiczenia w tym laboratorium obejmują:
 
 ### Podstawowe zapytania SELECT
-1. Pobranie wszystkich kolumn dla miast w USA o populacji większej niż 100 000.
-2. Pobranie nazw miast w USA o populacji większej niż 120 000.
-3. Pobranie wszystkich kolumn z tabeli CITY.
-4. Pobranie konkretnego miasta na podstawie ID.
-5. Pobranie wszystkich atrybutów dla miast w Japonii.
-6. Pobranie nazw wszystkich japońskich miast.
-7. Pobranie miast i stanów z tabeli STATION.
-8. Pobranie miast z parzystymi identyfikatorami.
-9. Obliczenie różnicy między całkowitą liczbą rekordów a liczbą unikalnych nazw miast.
-10. Znalezienie najkrótszych i najdłuższych nazw miast.
-
 ### Funkcje agregujące
-11. Liczba miast o populacji większej niż 100 000.
-12. Suma populacji miast w Kalifornii.
-13. Średnia populacja miast w Kalifornii.
-14. Całkowita populacja japońskich miast.
-15. Różnica między największą i najmniejszą populacją miast.
-16. Obliczenie łącznych zarobków pracowników.
-
 ### Łączenie tabel (JOIN)
-17. Pobranie całkowitej populacji miast na kontynencie azjatyckim.
-18. Obliczenie średniej populacji miast dla każdego kontynentu.
-19. Identyfikacja hakerów z pełnymi wynikami w więcej niż jednym zadaniu.
-20. Znalezienie najniższej ceny różdżek o wysokiej mocy.
-21. Pobranie rankingu uczestników konkursów hakerskich.
-22. Lista studentów, których najlepsi przyjaciele otrzymali wyższe wynagrodzenie.
+
 
 ## Jak wykonać laboratorium
 1. **Zarejestruj się** na [HackerRank](https://www.hackerrank.com/domains/sql) (jeśli nie masz konta).
