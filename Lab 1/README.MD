@@ -58,8 +58,8 @@ Bazy danych są niezbędne do przechowywania, organizowania i zarządzania duży
 ## Struktura repozytorium
 ```
 ├── README.md  # Opis laboratorium i instrukcje
-├── lab1_tasks.sql  # Zapytania SQL do ćwiczeń
-├── dataset/  # Schematy bazy danych i przykładowe dane
+├── lab1_tasks.sql  # Zapytania SQL do ćwiczeń (jeśli dotyczy)
+├── dataset/  # Schematy bazy danych i przykładowe dane (jeśli dotyczy)
 └── solutions/  # Proponowane rozwiązania (jeśli dotyczy)
 ```
 
