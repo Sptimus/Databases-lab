@@ -8,7 +8,7 @@ Uczestnicy zdobędą praktyczne umiejętności w zakresie projektowania, zarząd
 ## Tematyka Kursu
 Kurs jest podzielony na następujące kluczowe obszary:
 
-### 1Zaawansowane Modelowanie Danych
+### Zaawansowane Modelowanie Danych
 - Rozszerzone diagramy ER (atrybuty wielowartościowe, relacje wiele-do-wielu, generalizacja i specjalizacja)
 - Transformacja modeli ER na modele relacyjne
 - Denormalizacja i projektowanie efektywnych struktur danych
