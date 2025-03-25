@@ -19,7 +19,6 @@ Niniejszy projekt przedstawia przykładowe rozwiązanie bazodanowe służące do
 6. [Niedeklaratywne mechanizmy walidacji](#niedeklaratywne-mechanizmy-walidacji)  
 7. [Przykładowe dane](#przykładowe-dane)  
 8. [Ochrona bazy danych](#ochrona-bazy-danych)  
-9. [Jak uruchomić projekt](#jak-uruchomić-projekt)  
 
 ---
 
